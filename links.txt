@@ -1,0 +1,4 @@
+https://web.mit.edu/savin/Public/.Tutorial_v1.2/Introduction.html
+http://soft-matter.github.io/trackpy/v0.6.1/index.html
+https://github.com/soft-matter/trackpy-examples/blob/master/notebooks/walkthrough.ipynb
+https://sci-hub.se/http://dx.doi.org/10.1119/1.4803529
